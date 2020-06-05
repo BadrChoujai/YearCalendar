@@ -1,7 +1,5 @@
-# YearCalendar
-year calendar in c language.
+##YearCalendar
+#Year calendar in c language 
+To view the sourcecode just open main.c, to run the programme click on main.exe.
 
-To vue the sourcecode just open main.c
-To run the programme click on main.exe
-
-(you will need a text editor for c language to compile the programme or you can use terminal)
+(You will need a text editor for c language to compile the programme or you can use terminal).
